@@ -60,3 +60,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 - [Metaverse - Unity](https://github.com/bonuz-market/bonuz-land-unity)
 - [Metaverse - Three.js](https://github.com/bonuz-market/bonuz-land-threejs)
 - [Metaverse - React-Three-Fiber](https://github.com/bonuz-market/bonuz-land-react-three-fiber)
+
+💼 Other Projects
+---
+- [@webXauth/ui](https://github.com/webXauth/webXauth-ui)
