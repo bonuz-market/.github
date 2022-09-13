@@ -9,6 +9,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 
 🌎 Websites
 ---
+- [Bonuz.Market](https://github.com/bonuz-market/bonuz-market)
 - [Bonuz.Land](https://github.com/bonuz-market/bonuz-land)
 - [Bonuz.Life](https://github.com/bonuz-market/bonuz-life)
 
