@@ -43,6 +43,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [BONUZ Token](https://github.com/bonuz-market/token)
 - [MENDE Token](https://github.com/bonuz-market/MendeToken)
+- [Launchpad](https://github.com/bonuz-market/launchpad-smart-contract)
 
 🤖 Bots
 ---
