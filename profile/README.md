@@ -38,6 +38,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 🛠 Tools
 ---
 - [Smart Contract Tools](https://github.com/bonuz-market/smart-contract-tools)
+- [ChainsQuery](https://github.com/bonuz-market/chainsquery)
 
 🕹 Games
 ---
