@@ -7,7 +7,7 @@
 
 We at Bonuz ❤️ to build and share tech!
 
-Our software and other resurces are open sourced occasionally.
+Our software and other resources are open sourced occasionally.
 
 For a better overview of our projects see the following list.\
 Some links lead to GitHub 404 pages if the selected project is closed source.
