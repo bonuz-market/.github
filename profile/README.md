@@ -1,4 +1,3 @@
-\
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_light.svg" width="120">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg" width="120">
