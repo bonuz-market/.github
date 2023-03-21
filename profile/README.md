@@ -49,12 +49,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 - [BONUZ Token](https://github.com/bonuz-market/token)
 - [MENDE Token](https://github.com/bonuz-market/MendeToken)
 - [Launchpad](https://github.com/bonuz-market/launchpad-smart-contract)
-- [NEAR - BONUZ Token](https://github.com/bonuz-market/near-bonuz-token-smart-contract)
-- [NEAR - MENDE Token](https://github.com/bonuz-market/near-mende-smart-contract)
-- [NEAR - Vesting](https://github.com/bonuz-market/near-vesting-smart-contract)
-- [NEAR - Staking](https://github.com/bonuz-market/near-staking-smart-contract)
-- [NEAR - Launchpad](https://github.com/bonuz-market/near-launchpad-smart-contract)
-- [NEAR - Marketplace](https://github.com/bonuz-market/near-marketplace-smart-contract)
+- [NEAR - Smart Contracts](https://github.com/bonuz-market/near-smart-contracts)
 
 🤖 Bots
 ---
