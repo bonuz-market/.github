@@ -67,6 +67,11 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 - [Bonuz Creator](https://github.com/bonuz-market/creator-portal_mobile-app)
 - [Issuer](https://github.com/bonuz-market/app-issuer)
 
+🤓 Dev Resources
+---
+- [Prettier Config](https://github.com/bonuz-market/prettier)
+- [ESLint Config](https://github.com/bonuz-market/eslint)
+
 🧪 Experiments
 ---
 - [Social Media Auth](https://github.com/bonuz-market/social-media-auth-prototype)
