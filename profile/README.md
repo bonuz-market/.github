@@ -71,6 +71,7 @@ Some links lead to GitHub 404 pages if the selected project is closed source.
 ---
 - [Prettier Config](https://github.com/bonuz-market/prettier)
 - [ESLint Config](https://github.com/bonuz-market/eslint)
+- [Scripts](https://github.com/bonuz-market/scripts)
 
 🧪 Experiments
 ---
