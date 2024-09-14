@@ -6,7 +6,11 @@
 
 We at Bonuz ❤️ to build and share tech!
 
-Our software and other resources are open sourced occasionally.
+Our software and other resources are occasionally open-sourced.
+
+We are building a consumer ecosystem with the ultimate goal of gamifying the real world. We do not compete; we complete and integrate.
+Our Social Smart Wallet is live and can be downloaded on IOS and Android here:   - [Bonuz.xyz](https://bonuz.xyz)
+User experience and simplification are one of our biggest targets. We love to learn, share knowledge and collabrate with other builders and projects
 
 For a better overview of our projects see the following list.\
 Some links lead to GitHub 404 pages if the selected project is closed source.
