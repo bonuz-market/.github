@@ -4,20 +4,24 @@
   <img alt="webxauth logo" src="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg">
 </picture>
 
-We at Bonuz ❤️ to build and share tech!
+We at Bonuz ❤️ building and sharing tech!
 
-Our software and other resources are occasionally open-sourced.
+Our software and other resources are occasionally made available as open-source.
 
-We are building a consumer ecosystem with the ultimate goal of gamifying the real world. We do not compete; we complete and integrate.
-Our Social Smart Wallet is live and can be downloaded on IOS and Android here:   - [Bonuz.xyz](https://bonuz.xyz)
-User experience and simplification are one of our biggest targets. We love to learn, share knowledge and collabrate with other builders and projects
+We are building a consumer ecosystem with the ultimate goal of bringing the real world to life through gamification.
+We do not compete; we complete and integrate.
+Our Social Wallet App is live and can be downloaded on IOS and Android here:   - [Bonuz.xyz](https://bonuz.xyz)
 
-For a better overview of our projects see the following list.\
-Some links lead to GitHub 404 pages if the selected project is closed source.
+User experience and simplification are among our top priorities. We love to learn, share knowledge, and collaborate with us.
+
+For a better overview of our ecosystem, please refer to the following list.\
+Some links lead to GitHub 404 pages as the selected project is still in closed source.
 
 🌎 Websites
 ---
 - [Bonuz.Market](https://github.com/bonuz-market/bonuz-market)
+- [Bonuz.xyz](https://github.com/bonuz-market/bonuz-market)
+- [Bonuz.id](https://github.com/bonuz-market/bonuz-market)
 - [Bonuz.Land](https://github.com/bonuz-market/bonuz-land)
 - [Bonuz.Life](https://github.com/bonuz-market/bonuz-life)
 
