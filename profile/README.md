@@ -1,88 +1,101 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_light.svg" width="120">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg" width="120">
-  <img alt="webxauth logo" src="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg">
+  <img alt="bonuz logo" src="https://raw.githubusercontent.com/bonuz-market/.github/main/profile/bonuz_dark.svg">
 </picture>
 
-We at Bonuz ❤️ building and sharing tech!
+## bonuz
 
-Our software and other resources are occasionally made available as open-source.
+**Human Layer infrastructure powering identity, wallets, and real-world engagement across Web2 & Web3 — built to enable self-sovereignty at global scale.**
 
-We are building a consumer ecosystem with the ultimate goal of bringing the real world to life through gamification.
-We do not compete; we complete and integrate.
-Our Social Wallet App is live and can be downloaded on IOS and Android here:   - [Bonuz.xyz](https://bonuz.xyz)
+bonuz builds protocol-grade systems that connect people, applications, and real-world experiences through self-custodial identity, smart wallets, and engagement primitives.
 
-User experience and simplification are among our top priorities. We love to learn, share knowledge, and collaborate with us.
+We focus on long-term infrastructure.  
+Not everything in this organization is actively maintained, and that is intentional.
 
-For a better overview of our ecosystem, please refer to the following list.\
-Some links lead to GitHub 404 pages as the selected project is still in closed source.
-
-🌎 Websites
 ---
-- [Bonuz.Market](https://github.com/bonuz-market/bonuz-market)
-- [Bonuz.xyz](https://github.com/bonuz-market/bonuz-market)
-- [Bonuz.id](https://github.com/bonuz-market/bonuz-market)
-- [Bonuz.Land](https://github.com/bonuz-market/bonuz-land)
-- [Bonuz.Life](https://github.com/bonuz-market/bonuz-life)
 
-🕸 Web Applications
----
-- [Bonuz Auth - auth.bonuz.market](https://github.com/bonuz-market/auth-bonuz-market)
-- [Bonuz Chat - chat.bonuz.market](https://github.com/bonuz-market/chat-bonuz-market)
-- [Bonuz Metaverse - land.bonuz.market](https://github.com/bonuz-market/bonuz-land-nextjs-ts)
-- [Launchpad - launch.bonuz.market](https://github.com/bonuz-market/launchpad_web-app)
-- [Marketplace - trade.bonuz.market](https://github.com/bonuz-market/marketplace-webapp)
-- [Generators](https://github.com/bonuz-market/generators)
+## Active & Production Systems
 
-📚 Libraries
----
-- [@bonuz/bonuz-ui](https://github.com/bonuz-market/bonuz-ui)
-- [Bonuz UI (React Native)](https://github.com/bonuz-market/bonuz-ui_react-native)
-- [WalletWick](https://github.com/bonuz-market/WalletWick)
-- [Invest UI](https://github.com/bonuz-market/invest-ui)
-- [Covalent Client (C#)](https://github.com/bonuz-market/covalent)
+> Actively developed systems used in production.  
+> Core infrastructure is private by design.
 
-🛠 Tools
----
-- [Smart Contract Tools](https://github.com/bonuz-market/smart-contract-tools)
-- [ChainsQuery](https://github.com/bonuz-market/chainsquery)
+### Websites
+- https://bonuz.market — Protocol & ecosystem overview  
+- https://bonuz.xyz — Consumer lifestyle wallet  
+- https://bonuz.id — On-chain identity & biolink  
 
-🕹 Games
----
-- [Stocks](https://github.com/bonuz-market/StocksGame)
-- [GuessGame](https://github.com/bonuz-market/guessgame-ai)
+### Core Infrastructure (Private)
+- Wallet & account abstraction systems  
+- Identity, permissions & social graph  
+- Engagement protocol (DNFTs, passes, memberships, rewards)  
 
-📄 Smart Contracts
 ---
-- [BONUZ Token](https://github.com/bonuz-market/token)
-- [MENDE Token](https://github.com/bonuz-market/MendeToken)
-- [Launchpad](https://github.com/bonuz-market/launchpad-smart-contract)
-- [NEAR - Smart Contracts](https://github.com/bonuz-market/near-smart-contracts)
 
-🤖 Bots
----
-- [Telegram - Bonuz](https://github.com/bonuz-market/bot-telegram)
-- [Telegram WebApp - Wallet](https://github.com/bonuz-market/bot-telegram-webapp)
+## Open-Source & Public Components
 
-📱 Mobile Applications
----
-- [Bonuz Consumer](https://github.com/bonuz-market/bonuz-app)
-- [Bonuz Creator](https://github.com/bonuz-market/creator-portal_mobile-app)
-- [Issuer](https://github.com/bonuz-market/app-issuer)
+> Selected components are published to support developers, transparency, and ecosystem growth.
 
-🤓 Dev Resources
----
-- [Prettier Config](https://github.com/bonuz-market/prettier)
-- [ESLint Config](https://github.com/bonuz-market/eslint)
-- [Scripts](https://github.com/bonuz-market/scripts)
+- UI components & SDKs  
+- Developer tooling and utilities  
+- Reference implementations and demos  
 
-🧪 Experiments
----
-- [Social Media Auth](https://github.com/bonuz-market/social-media-auth-prototype)
-- [Metaverse - Unity](https://github.com/bonuz-market/bonuz-land-unity)
-- [Metaverse - Three.js](https://github.com/bonuz-market/bonuz-land-threejs)
-- [Metaverse - React-Three-Fiber](https://github.com/bonuz-market/bonuz-land-react-three-fiber)
+Some repositories may be **read-only** or **experimental**.
 
-💼 Other Projects
 ---
-- [@webXauth/ui](https://github.com/webXauth/webXauth-ui)
+
+## Experimental & Archived Projects
+
+> Research projects, prototypes, and discontinued initiatives.  
+> These repositories are **not actively maintained**.
+
+This includes:
+- Early product experiments  
+- Proof-of-concept applications  
+- Game mechanics & test deployments  
+- Deprecated tools and contracts  
+
+They are kept for historical and reference purposes only.
+
+---
+
+## Architecture Overview
+
+bonuz is structured as a multi-layer system designed to abstract blockchain complexity and expose human-first primitives to applications and brands.
+
+High-level layers include:
+- Settlement & execution layers (L1 / L2)
+- Middleware & account abstraction
+- Human Layer protocol (identity, engagement, UX rails)
+- Application, SDK, and brand interface layer
+
+This layered design allows bonuz to remain chain-agnostic, provider-agnostic, and globally scalable.
+
+---
+
+## Development Philosophy
+
+- Human-first infrastructure  
+- Self-custody by default  
+- Real-world utility over speculation  
+- Protocols before hype  
+
+bonuz is built for long-term global scale.
+
+---
+
+## Notes
+
+- Some links may lead to private or archived repositories  
+- Public exposure is intentional and curated  
+- Infrastructure is not published prematurely  
+
+For product access, documentation, or partnerships:  
+👉 https://bonuz.market
+
+For any type of requests or inquiries: 
+👉 https://bonuz.market/contact-us 
+
+Check us and our founder out on X:
+👉 https://x.com/bonuzmarket
+👉 https://x.com/mendematthias
