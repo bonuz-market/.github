@@ -120,6 +120,7 @@ bonuz is built for long-term global scale.
 - Some links may lead to private or archived repositories  
 - Public exposure is intentional and curated  
 - Infrastructure is not published prematurely  
+- We participating in theDAO
 
 For documentation, partnerships, or platform access:  
 👉 https://bonuz.market
@@ -130,3 +131,11 @@ For other types of requests or inquiries:
 Check our founder and us out on X:
 👉 https://x.com/bonuzmarket
 👉 https://x.com/mendematthias
+
+---
+
+## Verification
+
+Ownership verification — Giveth / TheDAO Security Fund Ethereum Security QF Round
+This GitHub organization (github.com/bonuz-market) belongs to bonuz, operated by Bonuz Inc. (St. Lucia) and Bonuz Technology DMCC (Dubai). bonuz has applied to the Ethereum Security QF Round on Giveth. Point of contact: Matthias Mende, Founder.
+Dated: April 22, 2026.
